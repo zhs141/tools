@@ -1,5 +1,5 @@
 # 这是张三的工具仓库
 ## 声明：因GitHub无法制作动态网页，所有在线工具均基于猿编程运行
 ## 以下是张三的在线工具（点开后需用微信扫描才可进入）
-> [魔方打乱公式随机生成器](https://zhs141.github.io/wca.png)
-> [二维码生成工具](https://zhs141.github.io/qrcode.png)
+> + [魔方打乱公式随机生成器](https://zhs141.github.io/wca.png)
+> + [二维码生成工具](https://zhs141.github.io/qrcode.png)
